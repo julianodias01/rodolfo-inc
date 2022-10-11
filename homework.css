@@ -1,0 +1,34 @@
+body {
+    width: 678px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+li:hover {
+    color: teal
+}
+
+button:hover {
+    color:white;
+    background-color: teal;
+}
+
+header p:hover {
+    font-weight: bold;
+}
+
+#INC:hover {
+    color: tomato;
+}
+
+tr:hover {
+    background-color: rgb(158, 158, 158);
+}
